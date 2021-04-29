@@ -1,10 +1,10 @@
 # Milk-Weights
 
 
-##Course: CS400 
-##Semester: Spring 2020
-##Project name: Milk Weights
-##Team Members:
+## Course: CS400 
+## Semester: Spring 2020
+## Project name: Milk Weights
+## Team Members:
 1. Shashank Agrawal, lecture 001, and sagrawal8@wisc.edu
 2. Max Battle, lecture 002, and mbattle2@wisc.edu
 3. Abhinav Bipin, lecture 001, and bipin@wisc.edu
