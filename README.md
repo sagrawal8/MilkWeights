@@ -1,7 +1,7 @@
 # Milk-Weights
 
 
-Course: cs400
+Course: CS400 
 Semester: Spring 2020
 Project name: Milk Weights
 Team Members:
